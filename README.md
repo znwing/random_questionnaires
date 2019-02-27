@@ -1,0 +1,2 @@
+# random_questionnaires
+通过链接或扫描二维码，随机跳转到问卷星的多个问卷之一
